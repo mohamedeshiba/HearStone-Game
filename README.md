@@ -1,2 +1,2 @@
-# HearStone-Game
-This is Project is an application of OOP and GUI features in JAVA 
+# MileStone3
+This is Milestone 3 of the CSEN401 project HearthStone
